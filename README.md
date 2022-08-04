@@ -1,2 +1,2 @@
-# Udacity_Data_Anayst_Projects
+# Data_Anayst_Portfolio
 It consists of all successful projects from Udacity Data Analyst course
