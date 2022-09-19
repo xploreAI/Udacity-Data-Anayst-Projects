@@ -1,0 +1,15 @@
+Udacity DAND project on "We Rate Dogs" twitter account data
+Data wrangling is one of the important parts of data analysis. It consists of 3 main parts:
+
+Data gathering
+Data assessment
+Data cleaning
+The main work has been done using python in Jupyter Notebook.
+
+Data gathering can be done in different ways in this project we used dataset loading from a file, dataset loaded through the provided link, and via tweepy API. The dataset which was used for analysis is WeRatedogs twitter page. In addition, a prediction table was provided by a Udacity instructor, which uses an algorithm for breed prediction.
+
+Data assessment was performed visually and programmatically. For visual assessment, DataFrame inspection along with data assessment in Excel spreadsheet was conducted. Programmatically data were inspected using different Python methods and functions. Data assessment was performed against data quality and data tidiness.
+
+Data cleaning was conducted by writing python codes to clean the data.
+
+Based on the obtained clean dataset Data analysis was conducted with visualization.
