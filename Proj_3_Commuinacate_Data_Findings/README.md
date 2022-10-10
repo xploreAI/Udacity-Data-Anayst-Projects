@@ -16,3 +16,6 @@ At the end of the exploration, I'll probably have a bunch of things that I’ve 
 
 ### Summary of Findings
 In the exploration, I found that there are two types of clients using the system: subscribers who are mainly daily commuters, having short trips to and from work, who rent a bike on weekdays and customers, usually tourists or occassional riders who use the system mainly on weekends to explore the Bay Area.Moreover, I have checked if there are some differences in trends for genders. In most cases the trend for males/females was the same, except of the fact that males tend to have slightly longer trips.
+
+### Key Insights
+For the presentation, I focus on the influence of Trip duration, Rides per Gender,user type group of bike hiring data. I start by sharing a plot for the average trip duration which turns out to be 10 minutes, followed by a plot for gender type rides, which clerly shoes that Males has the most rides. Then a plot of user type sharing, figuring out which user type either subsribers or customers have a large share of the bike trips. I tried to use different color palettes for each variables to make sure it is clear
